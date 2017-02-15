@@ -1,10 +1,10 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://http://ec2-52-33-208-186.us-west-2.compute.amazonaws.com//');
+define('HTTP_SERVER', 'http://ec2-52-33-208-186.us-west-2.compute.amazonaws.com//');
 #define('HTTP_SERVER', 'http://0.0.0.0:9888/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://http://ec2-52-33-208-186.us-west-2.compute.amazonaws.com//');
+define('HTTPS_SERVER', 'https://ec2-52-33-208-186.us-west-2.compute.amazonaws.com//');
 
 define('DIR_APPLICATION', '/var/www/html/catalog/');
 define('DIR_SYSTEM', '/var/www/html/system/');
