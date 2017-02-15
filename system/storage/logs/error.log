@@ -1,0 +1,391 @@
+2017-01-11 22:20:50 - PHP Notice:  Undefined index: name in /var/www/html/admin/view/template/extension/store_info.tpl on line 25
+2017-01-11 22:20:50 - PHP Notice:  Undefined index: name in /var/www/html/admin/view/template/extension/store_info.tpl on line 25
+2017-01-11 22:46:53 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /var/www/html/catalog/controller/startup/startup.php on line 21
+2017-01-12 3:44:02 - PHP Notice:  Undefined index: name in /var/www/html/admin/view/template/extension/store_info.tpl on line 25
+2017-01-12 3:44:02 - PHP Notice:  Undefined index: name in /var/www/html/admin/view/template/extension/store_info.tpl on line 25
+2017-01-12 3:44:13 - PHP Notice:  Undefined index: name in /var/www/html/admin/view/template/extension/store_info.tpl on line 25
+2017-01-12 3:44:13 - PHP Notice:  Undefined index: name in /var/www/html/admin/view/template/extension/store_info.tpl on line 25
+2017-01-12 18:26:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 18:26:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:10 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:10 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:10 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:10 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:10 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:10 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:55 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:55 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:55 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:55 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:55 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:19:55 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:59 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:59 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:44:59 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:45:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:45:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:45:00 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:45:48 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 19:45:48 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-12 19:51:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:12 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:51:12 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:51:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:31 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:31 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:31 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:32 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:51:32 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:51:32 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:32 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:32 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:35 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:51:35 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:51:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 19:51:39 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:51:39 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:53:08 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:53:08 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:53:37 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:53:37 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:54:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:54:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:55:24 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:55:24 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:56:00 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:56:00 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:57:05 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:57:05 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:58:15 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:58:15 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 19:59:54 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 19:59:54 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 20:01:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 20:01:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 20:03:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 20:03:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 20:03:55 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 18
+2017-01-12 20:03:55 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_03.tpl on line 188
+2017-01-12 20:09:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:09:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:09:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:09:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:09:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:09:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:31:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:31:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:31:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:31:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:31:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 20:31:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 21:00:48 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 21:00:48 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 21:00:48 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 21:00:48 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 21:00:48 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 21:00:48 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-12 21:24:59 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo2.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:25:36 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo2.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:26:18 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo2.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:26:41 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo2.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:26:52 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo2.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:28:00 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:29:42 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:30:23 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:35:11 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:35:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:35:38 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:35:53 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:36:01 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:36:06 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:36:35 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:36:38 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:36:46 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:55:15 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:57:25 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:57:55 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 21:58:00 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 23:05:10 - PHP Warning:  getimagesize(image/catalog/new%20images/Logo1.png): failed to open stream: No such file or directory in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-12 23:44:15 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 23:44:15 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-12 23:44:24 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 23:44:24 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-12 23:46:16 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 23:46:16 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-12 23:46:24 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 23:46:24 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-12 23:48:56 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 23:48:56 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-12 23:49:10 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 23:49:10 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-12 23:51:23 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-12 23:51:23 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-13 21:03:57 - PHP Warning:  getimagesize(http://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:05:31 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:06:32 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:07:50 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:08:50 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:12:33 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:33 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/header.php on line 9
+2017-01-13 21:12:42 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:42 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-13 21:12:42 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:42 - PHP Notice:  Use of undefined constant HTTP_CATALOG - assumed 'HTTP_CATALOG' in /var/www/html/admin/controller/common/header.php on line 121
+2017-01-13 21:12:42 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:43 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:47 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:47 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/header.php on line 9
+2017-01-13 21:12:50 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:50 - PHP Notice:  Use of undefined constant HTTP_CATALOG - assumed 'HTTP_CATALOG' in /var/www/html/admin/controller/common/header.php on line 121
+2017-01-13 21:12:51 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:51 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:52 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:12:52 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/header.php on line 9
+2017-01-13 21:13:01 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:13:01 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/header.php on line 9
+2017-01-13 21:13:07 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:13:07 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:13:07 - PHP Notice:  Use of undefined constant HTTP_CATALOG - assumed 'HTTP_CATALOG' in /var/www/html/admin/controller/common/header.php on line 121
+2017-01-13 21:13:08 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:13:08 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:14:45 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:14:52 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:14:52 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:14:52 - PHP Notice:  Use of undefined constant HTTP_CATALOG - assumed 'HTTP_CATALOG' in /var/www/html/admin/controller/common/header.php on line 121
+2017-01-13 21:14:53 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:14:53 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:16:58 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in /var/www/html/system/library/themeoptions.php on line 8
+2017-01-13 21:16:58 - PHP Notice:  Use of undefined constant HTTP_CATALOG - assumed 'HTTP_CATALOG' in /var/www/html/admin/controller/common/header.php on line 121
+2017-01-13 21:20:50 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/header.php on line 9
+2017-01-13 21:29:57 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:31:40 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:38:50 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:39:38 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /var/www/html/admin/controller/setting/setting.php on line 416
+2017-01-13 21:39:38 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /var/www/html/admin/model/tool/image.php on line 42
+2017-01-13 21:39:38 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /var/www/html/admin/model/tool/image.php on line 42
+2017-01-13 21:39:38 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /var/www/html/admin/model/tool/image.php on line 42
+2017-01-13 21:39:38 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /var/www/html/admin/model/tool/image.php on line 42
+2017-01-13 21:39:38 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /var/www/html/admin/controller/setting/setting.php on line 1242
+2017-01-13 21:41:32 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:43:01 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:43:31 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:44:31 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:44:36 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:47:17 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-13 21:47:44 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-13 21:47:44 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-13 21:47:44 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-13 21:47:44 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-13 21:47:44 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-13 21:47:44 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:32:34 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:32:34 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:32:34 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:32:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:32:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:32:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:09 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:33:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 16:35:17 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-14 16:35:17 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-14 16:36:41 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-14 16:36:41 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-14 16:37:16 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-14 16:37:16 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-14 17:17:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:17:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-14 17:33:24 - PHP Notice:  Undefined variable: module in /var/www/html/admin/view/template/extension/module/faq.tpl on line 173
+2017-01-14 17:42:46 - PHP Notice:  Undefined index: slider_id in /var/www/html/catalog/controller/extension/module/camera_slider.php on line 15
+2017-01-14 17:42:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/catalog/view/theme/fastor/template/extension/module/camera_slider.tpl on line 13
+2017-01-14 17:43:24 - PHP Notice:  Undefined index: slider_id in /var/www/html/catalog/controller/extension/module/camera_slider.php on line 15
+2017-01-14 17:43:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/catalog/view/theme/fastor/template/extension/module/camera_slider.tpl on line 13
+2017-01-14 17:45:19 - PHP Notice:  Undefined index: slider_id in /var/www/html/catalog/controller/extension/module/camera_slider.php on line 15
+2017-01-14 17:45:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/catalog/view/theme/fastor/template/extension/module/camera_slider.tpl on line 13
+2017-01-14 17:46:58 - PHP Notice:  Undefined index: slider_id in /var/www/html/catalog/controller/extension/module/camera_slider.php on line 15
+2017-01-14 17:46:58 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/catalog/view/theme/fastor/template/extension/module/camera_slider.tpl on line 13
+2017-01-14 17:47:38 - PHP Notice:  Undefined index: slider_id in /var/www/html/catalog/controller/extension/module/camera_slider.php on line 15
+2017-01-14 17:47:38 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/catalog/view/theme/fastor/template/extension/module/camera_slider.tpl on line 13
+2017-01-14 17:49:32 - PHP Notice:  Undefined index: slider_id in /var/www/html/catalog/controller/extension/module/camera_slider.php on line 15
+2017-01-14 17:49:32 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/catalog/view/theme/fastor/template/extension/module/camera_slider.tpl on line 13
+2017-01-15 3:58:48 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 3:59:31 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:02:25 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:02:32 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:02:56 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:03:47 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:05:03 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:05:19 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:05:43 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 4:05:43 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 4:07:33 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 4:07:33 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 4:08:21 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 4:08:21 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 4:09:02 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 4:09:02 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 4:12:12 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 4:12:12 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 4:12:45 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 4:12:45 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 4:19:34 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-15 4:19:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:19:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:19:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:19:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:19:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:19:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:30:06 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-15 4:31:57 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-15 4:34:09 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-15 4:37:05 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-15 4:44:21 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:45:00 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 4:46:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:35 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:38 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:38 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:38 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:38 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:38 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:38 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:40 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:40 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:40 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:40 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:40 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:40 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:52 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:53 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:53 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 4:46:53 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-15 14:59:44 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-15 23:24:23 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-15 23:24:55 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 23:24:55 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 23:26:04 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 23:26:04 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 23:26:34 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 23:26:34 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-15 23:27:30 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-15 23:27:30 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 0:18:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:12 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:13 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:14 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:14 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:14 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:15 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:16 - PHP Notice:  Undefined index: path in /var/www/html/catalog/view/theme/fastor/template/extension/module/category.tpl on line 40
+2017-01-16 0:18:27 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-16 0:22:08 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 0:23:20 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 0:26:41 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-16 0:26:47 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 0:28:03 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-16 0:29:31 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 0:29:49 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 0:37:20 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 0:48:10 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 0:48:10 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 0:50:08 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 0:50:08 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 0:51:31 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 0:51:31 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 0:51:52 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 0:51:52 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 0:54:30 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 0:54:30 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 0:56:20 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 0:56:20 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 0:58:47 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 0:58:47 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 2:34:45 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.gmail.com:465 (Connection timed out) in /var/www/html/system/library/mail.php on line 167
+2017-01-16 2:39:51 - PHP Warning:  fsockopen(): unable to connect to smtp.gmail.com:587 (Connection timed out) in /var/www/html/system/library/mail.php on line 167
+2017-01-16 2:40:56 - PHP Warning:  fsockopen(): unable to connect to smtp.gmail.com:587 (Connection timed out) in /var/www/html/system/library/mail.php on line 167
+2017-01-16 3:44:16 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 3:45:09 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 453
+2017-01-16 3:45:09 - PHP Notice:  Array to string conversion in /var/www/html/admin/view/template/extension/module/megamenu.tpl on line 623
+2017-01-16 4:08:53 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:10:06 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:10:38 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:10:42 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:11:27 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:11:46 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:13:56 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:14:41 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:18:50 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:19:51 - PHP Warning:  getimagesize(http://192.147.213.222:9888/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 4:31:41 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_04.tpl on line 181
+2017-01-16 4:37:26 - PHP Warning:  getimagesize(https://192.147.213.222:9889/image/catalog/newimages/Logo3.png): failed to open stream: Connection timed out in /var/www/html/catalog/view/theme/fastor/template/common/header/header_25.tpl on line 188
+2017-01-16 5:01:35 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-17 0:27:50 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-17 1:16:25 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-17 17:13:25 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-17 17:30:05 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-21 2:03:59 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-22 5:14:10 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-24 4:53:39 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-25 2:02:54 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-26 1:42:10 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
+2017-01-26 2:58:19 - PHP Notice:  Use of undefined constant HTTP_SERVER - assumed 'HTTP_SERVER' in /var/www/html/admin/controller/common/login.php on line 17
