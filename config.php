@@ -1,10 +1,10 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://192.147.213.222:9888/');
+define('HTTP_SERVER', 'http://ec2-52-33-208-186.us-west-2.compute.amazonaws.com/');
 #define('HTTP_SERVER', 'http://0.0.0.0:9888/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://192.147.213.222:9889/');
+define('HTTPS_SERVER', 'https://ec2-52-33-208-186.us-west-2.compute.amazonaws.com/');
 
 define('DIR_APPLICATION', '/var/www/html/catalog/');
 define('DIR_SYSTEM', '/var/www/html/system/');
@@ -20,7 +20,7 @@ define('DIR_UPLOAD', DIR_SYSTEM . 'storage/upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', '172.16.83.102');
+define('DB_HOSTNAME', 'db');
 define('DB_USERNAME', 'opencartuser');
 define('DB_PASSWORD', '123sqwert');
 define('DB_DATABASE', 'opencartdb');

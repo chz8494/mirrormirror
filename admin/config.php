@@ -1,11 +1,11 @@
 <?php
 // HTTP
 #define('HTTP_SERVER', 'http://192.147.213.222:9888/admin/');
-define('HTTP_CATALOG', 'http://192.147.213.222:9888/');
+define('HTTP_CATALOG', 'http://ec2-52-33-208-186.us-west-2.compute.amazonaws.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://192.147.213.222:9889/admin/');
-define('HTTPS_CATALOG', 'https://192.147.213.222:9889/');
+define('HTTPS_SERVER', 'https://ec2-52-33-208-186.us-west-2.compute.amazonaws.com/admin/');
+define('HTTPS_CATALOG', 'https://ec2-52-33-208-186.us-west-2.compute.amazonaws.com/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/admin/');
@@ -23,7 +23,7 @@ define('DIR_UPLOAD', DIR_SYSTEM . 'storage/upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', '172.16.83.102');
+define('DB_HOSTNAME', 'db');
 define('DB_USERNAME', 'opencartuser');
 define('DB_PASSWORD', '123sqwert');
 define('DB_DATABASE', 'opencartdb');
